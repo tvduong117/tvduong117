@@ -16,11 +16,12 @@ As a person who in incredibly invested in the interdiscplinary nature in all of 
 - *Peacemaking Among Primates*, Frans De Waal
 - *Demons*, Fyodor Dostovesky
 - *Steps Towards an Evolutionary Physics*, Enzo Tiezzi  
+
 One of the few things I hope to do will be to learn French and Chinese by my end of my four years at UCI, as well as secure a PhD spot(somewhere... somehow...) 
 
 Feel free to reach out through [Linkedin](https://www.linkedin.com/in/tvduong/).  
-### Inspiring Quotes:
-##### "It is more important to be persistent and ardent than brilliant." -Quote from Canvas page on Arassingham's CHEM 1A, 1B, 1C.
+### Quotes that inspired me:
+##### "It is more important to be persistent and ardent than brilliant." -Quote from Canvas page on Arassingham's CHEM 1A, 1B, 1C 😂
 ##### "Conservation without evolution is death. Evolution without conservation is madness..." -Gregory Bateson
 
 I just started using GitHub, so I currently do not have any statistics yet!
