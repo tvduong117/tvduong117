@@ -8,7 +8,15 @@
 
 ## I'm Thuan-An, a second year BME/Med Anthro Student @ UC Irvine.  
 
-As a person who in incredibly invested in the interdiscplinary nature in all of science, I seek to challenge all aspects of myself, from being parts of startups for Engineering Student Council to competing in Kendo tournaments. 
+As a person who in incredibly invested in the interdisciplinary nature present throughout all of science, I seek to challenge all aspects of myself, from being parts of startups for Engineering Student Council to competing in Kendo tournaments.  
+
+One of the few things I hope to do will be to learn French and Chinese by my end of my four years at UCI, as well as secure a PhD spot(somewhere... somehow...) 
+
+Feel free to reach out through [Linkedin](https://www.linkedin.com/in/tvduong/).  
+
+
+
+Some more about me info...
 
 ### Favorite book: 
 - *Fossil Men*, Kermit Pattison
@@ -16,15 +24,10 @@ As a person who in incredibly invested in the interdiscplinary nature in all of 
 - *Peacemaking Among Primates*, Frans De Waal
 - *Demons*, Fyodor Dostovesky
 - *Steps Towards an Evolutionary Physics*, Enzo Tiezzi  
-
-One of the few things I hope to do will be to learn French and Chinese by my end of my four years at UCI, as well as secure a PhD spot(somewhere... somehow...) 
-
-Feel free to reach out through [Linkedin](https://www.linkedin.com/in/tvduong/).  
-### Quotes that inspired me:
-##### "It is more important to be persistent and ardent than brilliant." -Quote from Canvas page on Arassingham's CHEM 1A, 1B, 1C 😂
-##### "Conservation without evolution is death. Evolution without conservation is madness..." -Gregory Bateson
-
 I just started using GitHub, so I currently do not have any statistics yet!
+
+#### "It is more important to be persistent and ardent than brilliant." -Quote from Canvas page on Arassingham's CHEM 1A, 1B, 1C 😂
+#### "Conservation without evolution is death. Evolution without conservation is madness..." -Gregory Bateson
 
 <!--
 **tvduong117/tvduong117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
