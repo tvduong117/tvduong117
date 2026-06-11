@@ -1,4 +1,20 @@
-## Hi there 👋
+
+<div align="center">
+<img hight"150" width="350" alt="GIF" align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NwOHcwNTF6MW50aTVzc2NqaXVnMmJuMWxxODA0OW1lYnJpczZ6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif">
+</div>
+</br>
+</br>
+
+
+## Hello there! I'm Thuan-An, a second year BME/Med Anthro Student @ UC Irvine.  
+
+As a person who in incredibly invested in the interdiscplinary nature in all of science, I seek to challenge all aspects of myself, from being parts of startups for Engineering Student Council to competing in Kendo tournaments.
+
+One of the few things I hope to do will be to learn French and Chinese by my end of my four years at UCI, as well as secure a PhD spot(somewhere... somehow...) 
+
+Feel free to reach out through [Linkedin](https://www.linkedin.com/in/tvduong/).  
+
+#### "It is more important to be persistent and ardent than brilliant."
 
 <!--
 **tvduong117/tvduong117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
